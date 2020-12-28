@@ -1,6 +1,6 @@
 Problem:
 
-Die Daten, die bei der Kommunikation mit einer Behörde ausgetauscht werden, sind oft gleichzeitig strukturierte Daten (Metadaten, Angaben in einem Formular), als auch unstrukturierte Daten (z.B. Textdokumente, Begründungen, Beschreibung eines Verwendungszwecks). Für die Transformation der unstrukturierten Daten in numerische Werte sind Funktionen wie das OneHotEncoding unzureichend.
+Die Daten, die bei der Kommunikation mit einer Behörde ausgetauscht werden, sind oft gleichzeitig strukturierte Daten (Metadaten einer Akte oder E-Mail, Angaben in einem Formular), als auch unstrukturierte Daten (z.B. Textdokumente, Begründungen, Beschreibung eines Verwendungszwecks). Für die Transformation der unstrukturierten Daten in numerische Werte sind Funktionen wie das OneHotEncoding unzureichend.
 
 Lösung:
 
