@@ -6,4 +6,4 @@ Lösung:
 
 Ein möglicher Ansatz ist die Transformation der unstrukturierten Text-Daten zu einem Vektor, wobei die einzelnen Dimensionen/Features die Ausprägungen eines „Themas“ repräsentieren. Für die Erstellung eines entsprechenden Modells genügen Daten ohne „Label“. Die Anzahl der Dimensionen/Features bzw. die Anzahl der „Themen“ kann frei definiert werden.
 
-![grafik](https://user-images.githubusercontent.com/66714895/103213582-6fdc2400-490e-11eb-8250-61f2f7997f37.png)
+![grafik](https://user-images.githubusercontent.com/66714895/103214136-f47b7200-490f-11eb-9f16-1a6735301d1f.png)
